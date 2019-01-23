@@ -26,7 +26,7 @@ pip3 install flask
 In order to run it locally,perform following intructions:
 1. clone this project 
 2. cd into deploy directory using terminal
-3. type ```bash python3 app.py``` in terminal
+3. type ```python3 app.py``` in terminal
 4. It shows localhost in terminal. Control click link and it opens in your default browser.
 
 
