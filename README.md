@@ -5,7 +5,7 @@ In order to run above notebook, install python3.5 or above and make sure to inst
 
 1. If you have installed python anaconda then type following command in anaconda prompt:
 
-''' bash
+'''code
 conda install bokeh
 '''
 
@@ -19,9 +19,7 @@ pip3 install bokeh pandas numpy matplotlib jupyter
 
 At first install flask using following scripts.
 
-''' bash
-pip3 install flask
-'''
+'''pip3 install flask'''
 
 In order to run it locally,perform following intructions:
 1. clone this project 
