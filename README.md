@@ -7,11 +7,11 @@ This is the demo mini project to get familiar with Dash by Plotly Framework. Aft
 In order to run it locally,perform following intructions:
 1. clone this project
 2. Create virtual environment using terminal:
-   ```code
+     ```code
      conda create --name environmentname python
-   ```
+     ```
 3. To activate virtual environment, use:
-    ```code
+     ```code
      activate environmentname
      ```
    To deactivate, use:
@@ -21,7 +21,7 @@ In order to run it locally,perform following intructions:
 4. To install all required dependencies
      ```code
      pip install -r requirements.txt
-      ```
+     ```
 5. cd into project directory
 3. type ```python3 index.py``` in terminal
 4. It shows localhost in terminal. Control click link and it opens in your default browser.
