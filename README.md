@@ -8,19 +8,19 @@ In order to run it locally,perform following intructions:
 1. clone this project
 2. Create virtual environment using terminal:
    ```code
-      conda create --name environmentname python
+     conda create --name environmentname python
    ```
 3. To activate virtual environment, use:
     ```code
-       activate environmentname
+     activate environmentname
      ```
    To deactivate, use:
      ```code
-        deactivate
+     deactivate
      ```
 4. To install all required dependencies
      ```code
-        pip install -r requirements.txt
+     pip install -r requirements.txt
       ```
 5. cd into project directory
 3. type ```python3 index.py``` in terminal
